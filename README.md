@@ -1,7 +1,6 @@
 ### Olá, me chamo Ilaedna👋
 ####
- |Contributions  |Languages  |
-|---|---|
+
 |![ilaedna16 Github status](https://github-readme-stats.vercel.app/api?username=ilaedna&show_icons=true&theme=midnight-purple) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaedna&layout=compact&theme=midnight-purple)](https://github.com/ilaedna/github-readme-stats)  | 
 
 
