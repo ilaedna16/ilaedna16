@@ -1,5 +1,4 @@
 ### Hello Guys!My name is Ilaedna👋
- I'm 21 year old, i'm studying at ufersa i study information technology and i'm learning programming, i discovered that love cybersecurity, but i need to improve at programming!
 ####
  |Contributions  |Languages  |
 |---|---|
