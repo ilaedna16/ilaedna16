@@ -1,13 +1,12 @@
-### Olá, Me chamo Ilaedna👋
-##
-[![ilaedna16's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ilaedna16&show_icons=true&theme=jolly)](https://github.com/ilaedna16/github-readme-stats#gh-dark-mode-only)
+### Hello Guys!My name is Ilaedna👋
+ I'm 21 year old, i'm studying at ufersa i study information technology and i'm learning programming, i discovered that love cybersecurity, but i need to improve at programming!
+####
+ |Contributions  |Languages  |
+|---|---|
+|![ilaedna16 Github status](https://github-readme-stats.vercel.app/api?username=ilaedna&show_icons=true&theme=midnight-purple) |[![Top Langs](https://githubreadme-stats.vercel.app/api/top-langs/?username=ilaedna&layout=compact&theme=midnight-purple)](https://github.com/ilaedna/github-readme-stats)  | 
 
-<a href="https://github.com/ilaedna16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilaedna16&layout=compact&theme=jolly" /></a>
-###
 
-<a href= "mailto:ilaedna.silva@alunos.ufersa.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href= "mailto:ilaedna.silva@alunos.uferssa.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilaedna_16/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+84999918295)
-
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5584999918295)
+![snake gif](https://github.com/ilaedna16/ilaedna16/blob/output/github-contribution-grid-snake.svg)
