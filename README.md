@@ -7,3 +7,12 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilaedna_16/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5584999918295)
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/ilaedna-delmiro-6a17a1266/)
+
+###  Adquirindo Conhecimentos em:
+
+<div style="display: inline_block">
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+</div>
+
